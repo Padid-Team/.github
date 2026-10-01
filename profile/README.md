@@ -17,5 +17,5 @@ We design, build, and maintain software products. Our work lives in the reposito
 
 ## Find us
 
-- Website: [padid.github.io](https://Padid-Team.github.io)
+- Website: [Padid-Team.github.io](https://Padid-Team.github.io)
 - Email: [padid.team@gmail.com]
